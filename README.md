@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome!
+### About -
+- He/Him
+- Just some guy who is way too overly obsessed with trains
+- Currently enrolled at MCC
 
 <!--
 **Stephen-the-lad/Stephen-the-lad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
